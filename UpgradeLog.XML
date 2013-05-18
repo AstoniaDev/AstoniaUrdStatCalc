@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="vb_calc">
+</Property><Property Name="Solution File" Value="D:\SoftwareProjects\vb_calc\vb_calc.sln">
+</Property><Property Name="User Options File" Value="D:\SoftwareProjects\vb_calc\vb_calc.suo">
+</Property><Property Name="Date" Value="01 May 2013">
+</Property><Property Name="Time" Value="06:41">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="vb_calc.sln" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc.sln">
+</Event><Event ErrorLevel="0" Project="" Source="vb_calc.suo" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc.suo">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\vb_calc.vbproj" Description="Project file successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\vb_calc.vbproj">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\vb_calc.vbproj.user" Description="Project user file successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\vb_calc.vbproj.user">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\frmEquipmentCalc.Designer.vb" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\frmEquipmentCalc.Designer.vb">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\frmEquipmentCalc.vb" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\frmEquipmentCalc.vb">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\frmMageCalc.Designer.vb" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\frmMageCalc.Designer.vb">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\frmMageCalc.vb" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\frmMageCalc.vb">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\frmNPC_Calc.Designer.vb" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\frmNPC_Calc.Designer.vb">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\frmNPC_Calc.vb" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\frmNPC_Calc.vb">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\frmSeyanCalc.Designer.vb" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\frmSeyanCalc.Designer.vb">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\frmSeyanCalc.vb" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\frmSeyanCalc.vb">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\frmWarriorCalc.Designer.vb" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\frmWarriorCalc.Designer.vb">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\frmWarriorCalc.vb" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\frmWarriorCalc.vb">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\My Project\Application.Designer.vb" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\StatCalc.Designer.vb" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\StatCalc.Designer.vb">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\StatCalc.vb" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\StatCalc.vb">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\My Project\app.manifest" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\My Project\Application.myapp" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\My Project\Settings.settings" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\vb_calc_TemporaryKey.pfx" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\vb_calc_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\frmEquipmentCalc.resx" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\frmEquipmentCalc.resx">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\frmMageCalc.resx" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\frmMageCalc.resx">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\frmNPC_Calc.resx" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\frmNPC_Calc.resx">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\frmSeyanCalc.resx" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\frmSeyanCalc.resx">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\frmWarriorCalc.resx" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\frmWarriorCalc.resx">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\My Project\Resources.resx" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\StatCalc.resx" Description="File successfully backed up as D:\SoftwareProjects\vb_calc\backup\Backup\vb_calc\StatCalc.resx">
+</Event><Event ErrorLevel="1" Project="vb_calc" Source="vb_calc\vb_calc.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\vb_calc.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="vb_calc" Source="vb_calc\vb_calc.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="vb_calc.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="vb_calc.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="vb_calc" Source="vb_calc\vb_calc.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
